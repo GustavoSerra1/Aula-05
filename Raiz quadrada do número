@@ -1,0 +1,10 @@
+#Raiz quadrada do número
+n1 = int(input("Digite um número:"))
+r = n1**0.5
+if (n1>0):
+    r = round(r,3)
+    print ("A raiz quadrada desse número é:", r)
+elif (n1==0):
+    print ("A raiz quadrada desse número é:", r)
+else:
+    print ("Digite um número válido:")
