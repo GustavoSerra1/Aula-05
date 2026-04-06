@@ -1,0 +1,3 @@
+n1 = int(input("Digite um número:"))
+print ("O valor é", n1)
+print (type (n1))
