@@ -1,2 +1,6 @@
-# Aula-05
-Atividades da aula 05
+Formatos utilizados:
+If: Se
+Elif: Senão se
+Else: Senão
+Round: Arredondar casas decimais
+.format: inserir valores na string (Arrumar)
